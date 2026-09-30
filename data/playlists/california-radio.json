@@ -1,0 +1,101 @@
+{
+  "station": "California Radio",
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "spotify_search": "https://open.spotify.com/search/Hotel%20California%20Eagles",
+      "youtube_search": "https://www.youtube.com/results?search_query=Hotel+California+Eagles",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 2,
+      "title": "Take It Easy",
+      "artist": "Eagles",
+      "spotify_search": "https://open.spotify.com/search/Take%20It%20Easy%20Eagles",
+      "youtube_search": "https://www.youtube.com/results?search_query=Take+It+Easy+Eagles",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 3,
+      "title": "Don't Stop Me Now",
+      "artist": "Queen",
+      "spotify_search": "https://open.spotify.com/search/Don't%20Stop%20Me%20Now%20Queen",
+      "youtube_search": "https://www.youtube.com/results?search_query=Don't+Stop+Me+Now+Queen",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 4,
+      "title": "Another One Bites the Dust",
+      "artist": "Queen",
+      "spotify_search": "https://open.spotify.com/search/Another%20One%20Bites%20the%20Dust%20Queen",
+      "youtube_search": "https://www.youtube.com/results?search_query=Another+One+Bites+the+Dust+Queen",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 5,
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "spotify_search": "https://open.spotify.com/search/Billie%20Jean%20Michael%20Jackson",
+      "youtube_search": "https://www.youtube.com/results?search_query=Billie+Jean+Michael+Jackson",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 6,
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "spotify_search": "https://open.spotify.com/search/Beat%20It%20Michael%20Jackson",
+      "youtube_search": "https://www.youtube.com/results?search_query=Beat+It+Michael+Jackson",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 7,
+      "title": "Once in a Lifetime",
+      "artist": "Talking Heads",
+      "spotify_search": "https://open.spotify.com/search/Once%20in%20a%20Lifetime%20Talking%20Heads",
+      "youtube_search": "https://www.youtube.com/results?search_query=Once+in+a+Lifetime+Talking+Heads",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 8,
+      "title": "This Must Be the Place (Naive Melody)",
+      "artist": "Talking Heads",
+      "spotify_search": "https://open.spotify.com/search/This%20Must%20Be%20the%20Place%20(Naive%20Melody)%20Talking%20Heads",
+      "youtube_search": "https://www.youtube.com/results?search_query=This+Must+Be+the+Place+(Naive+Melody)+Talking+Heads",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 9,
+      "title": "Sweet Child o' Mine",
+      "artist": "Guns N' Roses",
+      "spotify_search": "https://open.spotify.com/search/Sweet%20Child%20o'%20Mine%20Guns%20N'%20Roses",
+      "youtube_search": "https://www.youtube.com/results?search_query=Sweet+Child+o'+Mine+Guns+N'+Roses",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 10,
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Tears for Fears",
+      "spotify_search": "https://open.spotify.com/search/Everybody%20Wants%20to%20Rule%20the%20World%20Tears%20for%20Fears",
+      "youtube_search": "https://www.youtube.com/results?search_query=Everybody+Wants+to+Rule+the+World+Tears+for+Fears",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 11,
+      "title": "Africa",
+      "artist": "Toto",
+      "spotify_search": "https://open.spotify.com/search/Africa%20Toto",
+      "youtube_search": "https://www.youtube.com/results?search_query=Africa+Toto",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 12,
+      "title": "The Boys of Summer",
+      "artist": "Don Henley",
+      "spotify_search": "https://open.spotify.com/search/The%20Boys%20of%20Summer%20Don%20Henley",
+      "youtube_search": "https://www.youtube.com/results?search_query=The+Boys+of+Summer+Don+Henley",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    }
+  ]
+}

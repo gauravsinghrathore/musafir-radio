@@ -1,0 +1,101 @@
+{
+  "station": "Nai Ki Dukaan",
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Dheere Dheere Se Meri Zindagi Mein Aana",
+      "artist": "Kumar Sanu, Anuradha Paudwal",
+      "spotify_search": "https://open.spotify.com/search/Dheere%20Dheere%20Se%20Meri%20Zindagi%20Mein%20Aana%20Kumar%20Sanu,%20Anuradha%20Paudwal",
+      "youtube_search": "https://www.youtube.com/results?search_query=Dheere+Dheere+Se+Meri+Zindagi+Mein+Aana+Kumar+Sanu,+Anuradha+Paudwal",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 2,
+      "title": "Nazar Ke Samne",
+      "artist": "Kumar Sanu, Anuradha Paudwal",
+      "spotify_search": "https://open.spotify.com/search/Nazar%20Ke%20Samne%20Kumar%20Sanu,%20Anuradha%20Paudwal",
+      "youtube_search": "https://www.youtube.com/results?search_query=Nazar+Ke+Samne+Kumar+Sanu,+Anuradha+Paudwal",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 3,
+      "title": "Ek Ladki Ko Dekha",
+      "artist": "Kumar Sanu",
+      "spotify_search": "https://open.spotify.com/search/Ek%20Ladki%20Ko%20Dekha%20Kumar%20Sanu",
+      "youtube_search": "https://www.youtube.com/results?search_query=Ek+Ladki+Ko+Dekha+Kumar+Sanu",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 4,
+      "title": "Pehla Nasha",
+      "artist": "Udit Narayan, Sadhana Sargam",
+      "spotify_search": "https://open.spotify.com/search/Pehla%20Nasha%20Udit%20Narayan,%20Sadhana%20Sargam",
+      "youtube_search": "https://www.youtube.com/results?search_query=Pehla+Nasha+Udit+Narayan,+Sadhana+Sargam",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 5,
+      "title": "Tu Mile Dil Khile",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "spotify_search": "https://open.spotify.com/search/Tu%20Mile%20Dil%20Khile%20Kumar%20Sanu,%20Alka%20Yagnik",
+      "youtube_search": "https://www.youtube.com/results?search_query=Tu+Mile+Dil+Khile+Kumar+Sanu,+Alka+Yagnik",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 6,
+      "title": "Baazigar O Baazigar",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "spotify_search": "https://open.spotify.com/search/Baazigar%20O%20Baazigar%20Kumar%20Sanu,%20Alka%20Yagnik",
+      "youtube_search": "https://www.youtube.com/results?search_query=Baazigar+O+Baazigar+Kumar+Sanu,+Alka+Yagnik",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 7,
+      "title": "Mera Dil Bhi Kitna Pagal Hai",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "spotify_search": "https://open.spotify.com/search/Mera%20Dil%20Bhi%20Kitna%20Pagal%20Hai%20Kumar%20Sanu,%20Alka%20Yagnik",
+      "youtube_search": "https://www.youtube.com/results?search_query=Mera+Dil+Bhi+Kitna+Pagal+Hai+Kumar+Sanu,+Alka+Yagnik",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 8,
+      "title": "Tip Tip Barsa Paani",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "spotify_search": "https://open.spotify.com/search/Tip%20Tip%20Barsa%20Paani%20Udit%20Narayan,%20Alka%20Yagnik",
+      "youtube_search": "https://www.youtube.com/results?search_query=Tip+Tip+Barsa+Paani+Udit+Narayan,+Alka+Yagnik",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 9,
+      "title": "Ruk Ja O Dil Deewane",
+      "artist": "Udit Narayan",
+      "spotify_search": "https://open.spotify.com/search/Ruk%20Ja%20O%20Dil%20Deewane%20Udit%20Narayan",
+      "youtube_search": "https://www.youtube.com/results?search_query=Ruk+Ja+O+Dil+Deewane+Udit+Narayan",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 10,
+      "title": "Aankhon Se Tune Kya Keh Diya",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "spotify_search": "https://open.spotify.com/search/Aankhon%20Se%20Tune%20Kya%20Keh%20Diya%20Kumar%20Sanu,%20Alka%20Yagnik",
+      "youtube_search": "https://www.youtube.com/results?search_query=Aankhon+Se+Tune+Kya+Keh+Diya+Kumar+Sanu,+Alka+Yagnik",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 11,
+      "title": "Main Khiladi Tu Anari",
+      "artist": "Abhijeet, Udit Narayan",
+      "spotify_search": "https://open.spotify.com/search/Main%20Khiladi%20Tu%20Anari%20Abhijeet,%20Udit%20Narayan",
+      "youtube_search": "https://www.youtube.com/results?search_query=Main+Khiladi+Tu+Anari+Abhijeet,+Udit+Narayan",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 12,
+      "title": "Ole Ole",
+      "artist": "Abhijeet",
+      "spotify_search": "https://open.spotify.com/search/Ole%20Ole%20Abhijeet",
+      "youtube_search": "https://www.youtube.com/results?search_query=Ole+Ole+Abhijeet",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    }
+  ]
+}

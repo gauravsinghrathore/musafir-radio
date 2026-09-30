@@ -1,0 +1,38 @@
+[
+  {
+    "station": "Sunday Morning",
+    "tracks": 12,
+    "csv": "sunday-morning.csv",
+    "json": "sunday-morning.json"
+  },
+  {
+    "station": "Nai Ki Dukaan",
+    "tracks": 12,
+    "csv": "nai-ki-dukaan.csv",
+    "json": "nai-ki-dukaan.json"
+  },
+  {
+    "station": "Highway Dhaba",
+    "tracks": 12,
+    "csv": "highway-dhaba.csv",
+    "json": "highway-dhaba.json"
+  },
+  {
+    "station": "Continental Breakfast",
+    "tracks": 12,
+    "csv": "continental-breakfast.csv",
+    "json": "continental-breakfast.json"
+  },
+  {
+    "station": "California Radio",
+    "tracks": 12,
+    "csv": "california-radio.csv",
+    "json": "california-radio.json"
+  },
+  {
+    "station": "Wander",
+    "tracks": 16,
+    "csv": "wander.csv",
+    "json": "wander.json"
+  }
+]

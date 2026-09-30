@@ -1,0 +1,133 @@
+{
+  "station": "Wander",
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Pal Pal Dil Ke Paas",
+      "artist": "Kishore Kumar",
+      "spotify_search": "https://open.spotify.com/search/Pal%20Pal%20Dil%20Ke%20Paas%20Kishore%20Kumar",
+      "youtube_search": "https://www.youtube.com/results?search_query=Pal+Pal+Dil+Ke+Paas+Kishore+Kumar",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 2,
+      "title": "Dancing Queen",
+      "artist": "ABBA",
+      "spotify_search": "https://open.spotify.com/search/Dancing%20Queen%20ABBA",
+      "youtube_search": "https://www.youtube.com/results?search_query=Dancing+Queen+ABBA",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 3,
+      "title": "Chaiyya Chaiyya",
+      "artist": "Sukhwinder Singh, Sapna Awasthi",
+      "spotify_search": "https://open.spotify.com/search/Chaiyya%20Chaiyya%20Sukhwinder%20Singh,%20Sapna%20Awasthi",
+      "youtube_search": "https://www.youtube.com/results?search_query=Chaiyya+Chaiyya+Sukhwinder+Singh,+Sapna+Awasthi",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 4,
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "spotify_search": "https://open.spotify.com/search/Hotel%20California%20Eagles",
+      "youtube_search": "https://www.youtube.com/results?search_query=Hotel+California+Eagles",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 5,
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "spotify_search": "https://open.spotify.com/search/Billie%20Jean%20Michael%20Jackson",
+      "youtube_search": "https://www.youtube.com/results?search_query=Billie+Jean+Michael+Jackson",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 6,
+      "title": "Ek Ladki Ko Dekha",
+      "artist": "Kumar Sanu",
+      "spotify_search": "https://open.spotify.com/search/Ek%20Ladki%20Ko%20Dekha%20Kumar%20Sanu",
+      "youtube_search": "https://www.youtube.com/results?search_query=Ek+Ladki+Ko+Dekha+Kumar+Sanu",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 7,
+      "title": "Rasputin",
+      "artist": "Boney M.",
+      "spotify_search": "https://open.spotify.com/search/Rasputin%20Boney%20M.",
+      "youtube_search": "https://www.youtube.com/results?search_query=Rasputin+Boney+M.",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 8,
+      "title": "Once in a Lifetime",
+      "artist": "Talking Heads",
+      "spotify_search": "https://open.spotify.com/search/Once%20in%20a%20Lifetime%20Talking%20Heads",
+      "youtube_search": "https://www.youtube.com/results?search_query=Once+in+a+Lifetime+Talking+Heads",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 9,
+      "title": "Sweet Child o' Mine",
+      "artist": "Guns N' Roses",
+      "spotify_search": "https://open.spotify.com/search/Sweet%20Child%20o'%20Mine%20Guns%20N'%20Roses",
+      "youtube_search": "https://www.youtube.com/results?search_query=Sweet+Child+o'+Mine+Guns+N'+Roses",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 10,
+      "title": "Mambo No. 5 (A Little Bit of...)",
+      "artist": "Lou Bega",
+      "spotify_search": "https://open.spotify.com/search/Mambo%20No.%205%20(A%20Little%20Bit%20of...)%20Lou%20Bega",
+      "youtube_search": "https://www.youtube.com/results?search_query=Mambo+No.+5+(A+Little+Bit+of...)+Lou+Bega",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 11,
+      "title": "Everybody (Backstreet's Back)",
+      "artist": "Backstreet Boys",
+      "spotify_search": "https://open.spotify.com/search/Everybody%20(Backstreet's%20Back)%20Backstreet%20Boys",
+      "youtube_search": "https://www.youtube.com/results?search_query=Everybody+(Backstreet's+Back)+Backstreet+Boys",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 12,
+      "title": "Take On Me",
+      "artist": "a-ha",
+      "spotify_search": "https://open.spotify.com/search/Take%20On%20Me%20a-ha",
+      "youtube_search": "https://www.youtube.com/results?search_query=Take+On+Me+a-ha",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 13,
+      "title": "Tanha Tanha",
+      "artist": "Asha Bhosle",
+      "spotify_search": "https://open.spotify.com/search/Tanha%20Tanha%20Asha%20Bhosle",
+      "youtube_search": "https://www.youtube.com/results?search_query=Tanha+Tanha+Asha+Bhosle",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 14,
+      "title": "Don't Stop Me Now",
+      "artist": "Queen",
+      "spotify_search": "https://open.spotify.com/search/Don't%20Stop%20Me%20Now%20Queen",
+      "youtube_search": "https://www.youtube.com/results?search_query=Don't+Stop+Me+Now+Queen",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 15,
+      "title": "Gimme! Gimme! Gimme!",
+      "artist": "ABBA",
+      "spotify_search": "https://open.spotify.com/search/Gimme!%20Gimme!%20Gimme!%20ABBA",
+      "youtube_search": "https://www.youtube.com/results?search_query=Gimme!+Gimme!+Gimme!+ABBA",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    },
+    {
+      "position": 16,
+      "title": "Dil Se Re",
+      "artist": "A.R. Rahman, Anuradha Sriram, Anupama",
+      "spotify_search": "https://open.spotify.com/search/Dil%20Se%20Re%20A.R.%20Rahman,%20Anuradha%20Sriram,%20Anupama",
+      "youtube_search": "https://www.youtube.com/results?search_query=Dil+Se+Re+A.R.+Rahman,+Anuradha+Sriram,+Anupama",
+      "note": "Resolve to an official/licensed track or video before embedding."
+    }
+  ]
+}
