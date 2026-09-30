@@ -345,3 +345,43 @@ button {
     transition: none;
   }
 }
+
+.stationLabel {
+  margin: 0 0 7px;
+  font-family: Arial, sans-serif;
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  opacity: 0.72;
+}
+
+.trackArtist {
+  margin: 5px 0 0;
+  font-size: 14px;
+  font-style: italic;
+  opacity: 0.88;
+}
+
+.trackMeta {
+  display: flex;
+  gap: 14px;
+  margin-top: 8px;
+  font-family: Arial, sans-serif;
+  font-size: 9px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  opacity: 0.58;
+}
+
+
+.spotifyPlayer {
+  width: 320px;
+  margin: 14px 0 12px auto;
+}
+
+.spotifyPlayer iframe {
+  display: block;
+  border: 0;
+  border-radius: 12px;
+}

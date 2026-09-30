@@ -2,56 +2,26 @@
 
 import Image from "next/image";
 import { useState } from "react";
-
-const stations = [
-  {
-    id: "sunday-morning",
-    name: "Sunday Morning",
-    place: "India",
-    image: "/concepts/01_sunday_morning.png",
-  },
-  {
-    id: "nai-ki-dukaan",
-    name: "Nai Ki Dukaan",
-    place: "India · 90s",
-    image: "/concepts/02_nai_ki_dukaan.png",
-  },
-  {
-    id: "highway-dhaba",
-    name: "Highway Dhaba",
-    place: "India · On the road",
-    image: "/concepts/03_highway_dhaba.png",
-  },
-  {
-    id: "continental-breakfast",
-    name: "Continental Breakfast",
-    place: "Europe",
-    image: "/concepts/04_continental_breakfast.png",
-  },
-  {
-    id: "california-radio",
-    name: "California Radio",
-    place: "California",
-    image: "/concepts/05_california_radio.png",
-  },
-  {
-    id: "wander",
-    name: "Wander",
-    place: "Everywhere",
-    image: "/concepts/06_wander.png",
-  },
-];
+import { stations } from "@/lib/radio";
+import SpotifyPlayer from "./SpotifyPlayer";
 
 export default function Home() {
   const [stationIndex, setStationIndex] = useState(0);
+  const [trackIndex, setTrackIndex] = useState(0);
   const [powered, setPowered] = useState(true);
 
   const station = stations[stationIndex];
+  const tracks = station.playlist.tracks;
+  const track = tracks[trackIndex];
 
-  function tune(direction: number) {
-    setStationIndex(
-      (current) =>
-        (current + direction + stations.length) % stations.length
+  function selectStation(index: number) {
+    setStationIndex(index);
+    setTrackIndex(0);
+  }
+
+  function changeTrack(direction: number) {
+    setTrackIndex(
+      (current) => (current + direction + tracks.length) % tracks.length
     );
   }
 
@@ -84,6 +54,7 @@ export default function Home() {
         >
           Stations
         </button>
+
         <a href="#about">About</a>
       </nav>
 
@@ -95,30 +66,54 @@ export default function Home() {
         {stations.map((item, index) => (
           <button
             key={item.id}
-            className={index === stationIndex ? "dialItem active" : "dialItem"}
-            onClick={() => setStationIndex(index)}
+            className={
+              index === stationIndex
+                ? "dialItem active"
+                : "dialItem"
+            }
+            onClick={() => selectStation(index)}
           >
             <span>{String(index + 1).padStart(2, "0")}</span>
-            {item.name}
+            {item.playlist.station}
           </button>
         ))}
       </section>
 
-      <section className="radioInterface" aria-label="Radio controls">
+      <section
+        className="radioInterface"
+        aria-label="Radio controls"
+      >
         <div className="nowPlaying">
-          <p className="stationNumber">
-            {String(stationIndex + 1).padStart(2, "0")} / 06
+          <p className="stationLabel">
+            {station.playlist.station}
           </p>
 
-          <h2>{station.name}</h2>
-          <p className="stationPlace">{station.place}</p>
+          <h2>{track.title}</h2>
+
+          <p className="trackArtist">
+            {track.artist}
+          </p>
+
+          <div className="trackMeta">
+            <span>
+              {String(trackIndex + 1).padStart(2, "0")} /{" "}
+              {String(tracks.length).padStart(2, "0")}
+            </span>
+
+            <span>{station.place}</span>
+          </div>
         </div>
+
+        <SpotifyPlayer
+          spotifyId={track.spotify_id}
+          title={`${track.title} — ${track.artist}`}
+        />
 
         <div className="analogueControls">
           <button
             className="knob"
-            onClick={() => tune(-1)}
-            aria-label="Previous station"
+            onClick={() => changeTrack(-1)}
+            aria-label="Previous track"
           >
             ‹
           </button>
@@ -133,19 +128,23 @@ export default function Home() {
 
           <button
             className="knob"
-            onClick={() => tune(1)}
-            aria-label="Next station"
+            onClick={() => changeTrack(1)}
+            aria-label="Next track"
           >
             ›
           </button>
         </div>
 
         <div className="frequencyLine" aria-hidden="true">
-          {stations.map((item, index) => (
+          {tracks.map((item, index) => (
             <button
-              key={item.id}
-              className={index === stationIndex ? "tick selected" : "tick"}
-              onClick={() => setStationIndex(index)}
+              key={`${station.id}-${item.position}`}
+              className={
+                index === trackIndex
+                  ? "tick selected"
+                  : "tick"
+              }
+              onClick={() => setTrackIndex(index)}
               tabIndex={-1}
             />
           ))}
